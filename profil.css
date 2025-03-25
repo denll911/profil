@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #e0e7ff;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.profile {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.profile img {
+    width: 150px;
+    border-radius: 50%;
+    border: 2px solid #4f46e5;
+}
+
+.skillsdescription img {
+    width: 200px;
+    height: 100px;
+    border-radius: 7px;
+    border: 2px solid #e3e3e3;
+}
+
+h1 {
+    margin: 10px 0;
+}
+
+h2 {
+    color: #4f46e5;
+    margin-bottom: 10px;
+}
+
+.skills, .skillsdescription, .Biodata, .education, .sertification, .contact {
+    margin: 15px 0;
+    padding: 10px;
+    background-color: #f0f4ff;
+    border-radius: 5px;
+}
+
+.progress-bar {
+    background-color: #d1d5db;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.progress {
+    height: 10px;
+    border-radius: 5px;
+}
+
+.html { width: 80%; background-color: #4f46e5; }
+.css { width: 70%; background-color: #3b82f6; }
+.js { width: 60%; background-color: #f59e0b; }
